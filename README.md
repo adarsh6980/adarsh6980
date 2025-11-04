@@ -50,30 +50,6 @@ I'm a passionate developer focused on building impactful solutions through **Mac
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarsh6980&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarsh6980&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh6980&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🏆 LeetCode Stats
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/adarsh6980?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/adarsh6980)
-
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 <img align="left" src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=300&h=200&fit=crop" width="280" style="margin-right: 20px; margin-bottom: 10px; border-radius: 10px;" />
